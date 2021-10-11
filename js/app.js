@@ -47,9 +47,10 @@ function showMovies(data){
                 </div>
                 <div class="movie__average movie__average--${getClassByRate(movie.rating)}">
                     ${movie.rating}
-                </div>   
+                </div>
             </div>
         `;
+        
         moviesEl.appendChild(movieEl);
     });
 }
