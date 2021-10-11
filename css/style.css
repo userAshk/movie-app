@@ -125,11 +125,11 @@ body {
   border: 1px solid green;
 }
 
-.movie-info .movie__average--green {
+.movie-info .movie__average--orange {
   border: 1px solid orange;
 }
 
-.movie-info .movie__average--green {
+.movie-info .movie__average--red {
   border: 1px solid red;
 }
 /*# sourceMappingURL=style.css.map */
